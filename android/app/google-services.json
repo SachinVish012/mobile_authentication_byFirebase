@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "941588688737",
+    "project_id": "testauthentication-45797",
+    "storage_bucket": "testauthentication-45797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941588688737:android:56b4e2376af3ae78019f20",
+        "android_client_info": {
+          "package_name": "com.authentication.flutter_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCZI2bGv8vD8A5-3rJc1jzq2iTZBX0bQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
